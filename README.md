@@ -1,6 +1,6 @@
 # react-resume
 
-灵感来自于<http://strml.net/>
+灵感来自于<http://strml.net/>  
 作者项目地址：<https://github.com/STRML/strml.net>
 
 ## [在线展示](https://www.bingyublog.com/about)
